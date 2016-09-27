@@ -1,0 +1,2 @@
+#RAE-4 220501032 01 
+Interpretar el informe de requerimientos, para determinar las necesidades tecnológicas en el manejo de la información, de acuerdo con las normas y protocolos establecidos en la empresa.

@@ -1,0 +1,1 @@
+https://sonarqube.com/component_measures/domain/Reliability?id=org.sonarsource.php%3Aphp
